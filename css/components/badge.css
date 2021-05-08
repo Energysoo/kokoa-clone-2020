@@ -10,3 +10,25 @@
   color: white;
   font-weight: 600;
 }
+
+.badge-dot {
+  background-color: tomato;
+  display: block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: relative;
+  right: -100px;
+  top: -25px;
+}
+
+.badge-dot__more {
+  background-color: tomato;
+  display: block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: relative;
+  right: -150px;
+  top: -25px;
+}
