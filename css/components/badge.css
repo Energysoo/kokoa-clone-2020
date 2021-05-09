@@ -32,3 +32,14 @@
   right: -150px;
   top: -25px;
 }
+
+.badge-dot__talkdrive {
+  background-color: tomato;
+  display: block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: relative;
+  right: -20px;
+  top: -100px;
+}
