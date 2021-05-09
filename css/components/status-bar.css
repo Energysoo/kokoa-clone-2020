@@ -7,6 +7,11 @@
   box-sizing: border-box;
 }
 
+.status-bar__indexpage {
+  display: flex;
+  justify-content: center;
+  padding: 5px 3px;
+}
 .status-bar__column {
   width: 33%;
 }
